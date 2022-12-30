@@ -67,7 +67,7 @@
     "moment": "^2.27.0",
     "mongodb-memory-server": "^6.9.2",
     "mongoose": "^5.7.5",
-    "mongoose-query": "^0.6.1",
+    "mongoose-query": "^0.7.4",
     "mongoose-schema-jsonschema": "1.4.4",
     "nconf": "^0.10.0",
     "nodemailer": "^6.4.16",
